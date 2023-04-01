@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MySearchViewonToolBar</string>
+    <string name="searchviewitem">searchViewItem</string>
+</resources>

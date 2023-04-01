@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item
+         android:id="@+id/item1"
+         android:title="@string/search"
+         android:icon="@drawable/ic_baseline_search_24"
+         app:showAsAction="always"
+         app:actionViewClass="android.widget.SearchView"
+         />
+    <item
+        android:id="@+id/item2"
+        android:title="Saveit"
+        android:icon="@drawable/ic_baseline_save_alt_24"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/item3"
+        android:title="Linked devices"
+        android:icon="@drawable/ic_baseline_link_24"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/item4"
+        android:title="Settings"
+        android:icon="@drawable/ic_baseline_settings_24"
+        app:showAsAction="always"
+        />
+</menu>

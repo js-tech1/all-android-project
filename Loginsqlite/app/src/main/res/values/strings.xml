@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Loginsqlite</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="user_name1">User Name</string>
+    <string name="password1">Password</string>
+    <string name="existing_user_go_to_sign_in_page">Existing user Go to Sign in Page</string>
+    <string name="retype_password">Retype Password</string>
+</resources>

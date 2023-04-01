@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Explicit Intent</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="call_first_activity">Call first activity</string>
+    <string name="call_second_activity">Call second activity</string>
+    <string name="first_activity">First Activity</string>
+</resources>
